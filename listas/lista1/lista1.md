@@ -10,7 +10,36 @@ Para o sistema mecânico translacional apresentado na Figura 1:
 <img src="./img/fig1_sistemamecanico.png" alt="Sistema mecânico - massa, mola e amortecedor (Exercício 1)" width="500"/>
 </p>
 
-RESOLUÇÃO AQUI
+### Modelo matemático
+A força resultante segue a 2ª lei de Newton: $F_R(t) = m_1x^{\prime\prime}_1(t)$
+$$
+F(t) - k_1x_1(t) + bx^{\prime}_1(t) = m_1x^{\prime\prime}_1(t)
+$$
+$$
+m_1x^{\prime\prime}_1(t) - bx^{\prime}_1(t) + k_1x_1(t) = F(t)
+$$
+### Função de transferência
+Aplicando Laplace com c.i.n.:
+
+$$s^2\cdot m_1X_1(s) - s\cdot bX_1(s) + k_1X_1(s) = F(s)$$
+$$ X_1(s)(s^2\cdot m_1 - s\cdot b + k_1) = F(s) $$
+$$\therefore \dfrac{X_1(s)}{F(s)} = G(s) = \dfrac{1}{s^2\cdot m_1 - s\cdot b + k_1}$$
+
+### Faixa de valores de $k_1$
+Dado que $b = m_1 = 1$, então:
+$$ \dfrac{X_1(s)}{F(s)} = G(s) = \dfrac{1}{s^2 - s + k_1}$$
+Os polos de $G(s)$ são tais que $s^2 - s + k_1=0$. Logo:
+$$
+s = \dfrac{1\pm \sqrt{1-4k_1}}{2}
+$$
+$$
+s = \dfrac{1}{2}\pm\dfrac{\sqrt{1-4k_1}}{2}
+$$
+Para ser oscilatório, devemos ter polos complexos conjugados. Portanto:
+$$
+1-4k_1<0 \implies k_1 > \dfrac{1}{4}
+$$
+
 
 ## Exercício 2
 Seja o sistema mecânico translacional apresentado na Figura 2. Determine:
