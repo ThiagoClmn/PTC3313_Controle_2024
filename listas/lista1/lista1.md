@@ -14,9 +14,9 @@ RESOLUÇÃO AQUI
 
 ## Exercício 2
 Seja o sistema mecânico translacional apresentado na Figura 2. Determine:
-1. O modelo matemático do sistema (x 1 é a posição do bloco 1, e x 2 do bloco 2);
+1. O modelo matemático do sistema ($x_1$ é a posição do bloco 1, e $x_2$ do bloco 2);
 2. Considerando $k_1 = k_2 = m_1 = m_2 = 1 = b_2$ , encontre a faixa de valores de $b_1$ para o sistema ser oscilatório;
-3. Considerando os mesmos parâmetros do item anterior e ainda b 1 = 3, encontre as respostas $x_1(t)$ e $x_2(t)$ do sistema a um degrau unitário em $F(t)$.
+3. Considerando os mesmos parâmetros do item anterior e ainda $b_1 = 3$, encontre as respostas $x_1(t)$ e $x_2(t)$ do sistema a um degrau unitário em $F(t)$.
 
 <p align="center">
 <img src="./img/fig2_sistemamecanico.png" alt="Sistema mecânico - duplo massa mola (Exercício 2)" width="500"/>
