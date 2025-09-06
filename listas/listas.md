@@ -1,5 +1,7 @@
 # Listas de Controle
 
+Disclaimer: não sou nem fui monitor desta matéria. Portanto, não se trata de um gabarito definitivo, mas sim de uma resolução pessoal dessas listas e que está aberta para sugestões de mudança.
+
 Cada uma das listas resolvidas:
 
 - [Lista 1](./lista1/lista1.md)
