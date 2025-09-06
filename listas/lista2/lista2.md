@@ -3,7 +3,7 @@
 ## Exercício 1
 Seja o sistema realimentado com diagrama de blocos mostrado na figura 1. Considerando que $G(s)  =\dfrac{K}{s(s+2)}$ e $F(s) = 1 + ks$. Determine:
 
-1. Os valores de K e k tais que o sistema tenha fator de amortecimento $\xi = 0.7$ e frequência natural não-amortecida $\omega_n = 4$ rad/s.
+1. Os valores de $K$ e $k$ tais que o sistema tenha fator de amortecimento $\xi = 0.7$ e frequência natural não-amortecida $\omega_n = 4$ rad/s.
 2. Para estes valores de $K$ e $k$, determine a resposta ao degrau unitário, o tempo de subida, o tempo de pico, a porcentagem de sobressinal e o tempo de acomodação a 2%.
 
 <p align="center">
