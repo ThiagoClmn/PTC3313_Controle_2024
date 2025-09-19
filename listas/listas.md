@@ -15,3 +15,5 @@ Cada uma das listas resolvidas:
 - [Lista LGR2](./listaLGR2/listaLGR2.md)
 
 Não há lista 4!
+
+Voltar para o principal: [README.md](../README.md)

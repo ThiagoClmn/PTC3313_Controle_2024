@@ -9,6 +9,7 @@ Provas antigas que encontrei:
         - [2020](./P1/PTC3313_Controle-da-Elétrica/p1_ptc3313_2020.md)
         - [2021](./P1/PTC3313_Controle-da-Elétrica/p1_ptc3313_2021.md)
     - P2
+        - ...
 
 - PTC3020 (Controle da Comp)
     - P1
@@ -17,3 +18,6 @@ Provas antigas que encontrei:
         - [2022](./P1/PTC3020_Controle-da-Comp/p1_ptc3020_2022.md)
     - P2
         - ...
+
+
+Voltar para o principal: [README.md](../README.md)
