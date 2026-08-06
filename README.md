@@ -6,3 +6,5 @@ Na falta de um gabarito, resolvi elaborar o meu próprio para disseminar o conte
 
 - Resolução das listas: [listas aqui](listas/listas.md)
 - Provas antigas: [provas antigas aqui](provas_antigas/provas.md)
+
+OBS.: Nem todas as resoluções foram feitas
