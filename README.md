@@ -1,6 +1,6 @@
-# PTC3313_Controle_2024
+# PTC3313 - Sistemas de Controle (2024.2)
 
-Este é um repositório com meu material de estudo da disciplina de graduação PTC3313 - Sistemas de Controle.
+Este é um repositório com meu material de estudo da disciplina de graduação **PTC3313 - Sistemas de Controle** durante o segundo semestre de **2024**.
 
 Na falta de um gabarito, resolvi elaborar o meu próprio para disseminar o conteúdo para todos os meus demais colegas.
 
