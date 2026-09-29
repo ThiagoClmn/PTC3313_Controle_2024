@@ -7,7 +7,14 @@ G(s) = \dfrac{K(s+2)}{(s+1)^2}, K>0
 $$
 Esboce o LGR para o sistema.
 
-Resolução aqui
+**Minha solução:**
+
+- Quantos zeros e polos MA tem:
+    - zeros: $\{-2\}$
+    - polos: $\{-1 \}$ (multiplicidade 2)
+- 
+
+![Gráfico rlocus no MATLAB - FTMA do exercício 1](../listaLGR/img/listalgr_exerc1.png)
 
 ## Exercício 2
 Considere um sistema de controle com realimentação unitária e função de transferência de ramo direto dada por
@@ -17,7 +24,9 @@ $$
 
 Esboce o LGR para o sistema.
 
-Resolução aqui
+**Minha solução:**
+
+![Gráfico rlocus no MATLAB - FTMA do exercício 2](../listaLGR/img/listalgr_exerc2.png)
 
 ## Exercício 3
 Um sistema de realimentação unitária para a suspensão de um automóvel tem função de transferência de malha aberta dada por
@@ -27,4 +36,6 @@ $$
 
 Esboce o LGR para o sistema.
 
-Resolução aqui
+**Minha solução:**
+
+![Gráfico rlocus no MATLAB - FTMA do exercício 3](../listaLGR/img/listalgr_exerc3.png)
